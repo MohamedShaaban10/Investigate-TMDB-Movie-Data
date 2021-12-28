@@ -1,5 +1,5 @@
 # Investigate-TMDB-Movie-Data
-i have used TMDb movie Dataset that contains about 10,000 movies collected from TMDb.The goal of this investigation is to analyze insights abonout movie features to help movie industry to earn more profits.
+i have used TMDb movie Dataset that contains about 10,000 movies collected from TMDb.The goal of this investigation is to analyze insights about movie features to help movie industry to earn more profits.
 
 What do I need to install? You will need an installation of Python, plus the following libraries:(pandas,NumPy,Matplotlib, seaborn, and squarify ) It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
